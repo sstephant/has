@@ -5,7 +5,7 @@ Simple wrapper for Object.hasOwnProperty function
 Installation:
 -------------
 ```
-npm install has --save
+npm install @sstephant/has --save
 ```
 
 Usage:
