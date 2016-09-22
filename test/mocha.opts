@@ -1,0 +1,5 @@
+--colors
+--ui bdd
+--check-leaks
+--reporter spec
+--require chai

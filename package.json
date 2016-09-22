@@ -1,0 +1,37 @@
+{
+  "name": "@sstephant/has",
+  "version": "1.0.0",
+  "description": "Shortcut for hasOwnProperty",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sstephant/has.git"
+  },
+  "keywords": [
+    "hasOwnProperty"
+  ],
+  "author": "Sylvain STEPHANT <sstephant+github@gmail.com>",
+  "contributors": [
+    "Sylvain STEPHANT <sstephant+github@gmail.com> (https://github.com/sstephant)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sstephant/has/issues"
+  },
+  "homepage": "https://github.com/sstephant/has#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-config-standard": "^6.0.1",
+    "eslint-plugin-import": "^1.15.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-react": "^6.3.0",
+    "eslint-plugin-standard": "^2.0.0",
+    "mocha": "^3.0.2"
+  }
+}
