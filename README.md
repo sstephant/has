@@ -1,0 +1,2 @@
+# has
+Shortcut for hasOwnProperty
